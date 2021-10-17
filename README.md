@@ -1,6 +1,6 @@
 # Welcome to gnnlab!!
 
-## gnnlab represents a gemological neural network.
+gnnlab represents a gemological neural network.
 
 I belong to the "GIA Alumni Association #Korea Chapter" and CTO of the "Korea Gem Information Center" in Korea.
 Also, I am currently doing PhD at "Seoul National University of Science and Technology"
