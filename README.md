@@ -1,25 +1,16 @@
-# Welcome to gnnlab!!
 
-gnnlab represents a gemological neural network.
+## Welcome to gnnlab: Advancing Gemology with Neural Networks!
+Greetings from gnnlab, where we pioneer the fusion of gemology and cutting-edge neural networks. As a member of the "GIA Alumni Association #Korea Chapter" and serving as the Chief Technology Officer at the "Korea Gem Information Center," alongside pursuing a Ph.D. at "Seoul National University of Science and Technology," I am deeply entrenched in the realms of gemological exploration and technological innovation.
 
-I belong to the "GIA Alumni Association #Korea Chapter" and CTO of the "Korea Gem Information Center" in Korea.
-Also, I am currently doing PhD at "Seoul National University of Science and Technology"
+My passion lies at the intersection of jewelry craftsmanship and the transformative realms of Artificial Intelligence, Virtual Reality, and Machine Learning. Through gnnlab, I endeavor to bridge the traditional elegance of jewelry with the boundless possibilities of IT.
 
-I am very interested in jewelry and AI.VR.ML, so trying to converge jewelry and IT.
+## Unveiling "A Study on the Cognitive Intelligence Gem Discrimination System"
+In the realm of gem identification and valuation, precision is paramount. It is the meticulous examination of gem characteristics that unveils their authenticity and true worth.
 
-***
-# "A Study on the Cognitive Intelligence Gem Discrimination System"
+Traditionally, gem identification relies heavily on human observation aided by tools such as jewelry loupes and microscopes, often magnifying features by tenfold or more. Additionally, auxiliary analysis techniques including optical and physical inspections are employed by trained professionals, ensuring accuracy in gemstone classification.
 
-The identification and appraisal of gems is a method for classifying gems and deriving authenticity and correct results.
+However, the exclusivity of this expertise leaves consumers vulnerable to misjudgments, leading to inadvertent purchases of subpar gemstones at inflated prices. This knowledge gap underscores the necessity for accessible and reliable gem identification systems.
 
-In general, using a jewelry loupe, a microscope, etc., it is carried out based on various features observed with the human eye in a situation magnified by 10 magnify or more.
+In our research, we embark on a journey to develop a cognitive intelligent gem identification system leveraging extensive big data sets. Our aim is to empower individuals with the ability to discern gems with ease and precision, mitigating the risks associated with uninformed purchases and enhancing consumer confidence.
 
-In addition, ancillary analysis techniques such as optical and physical inspection can be applied together depending on the type or characteristics of gemstones, and usually only “professionals who have received professional training for jewelry” perform this.
-
-Due to this particularity, retailers, dealers, or consumers who do not have professional knowledge have suffered damage by purchasing low-quality jewelry or gem at a high price or purchasing separate jewelry that is similar only in color.
-
-Therefore, in this study, we study how to build a cognitive intelligent gem identification system based on stereotyped big data and to identify gems more easily and accurately.
-***
-
-More details will be posted in 2022... maybe :)
-Thank you for attention. 😄
+Stay tuned for further updates in 20... perhaps with a sparkle of surprises! Your interest and support are deeply appreciated. 😄
